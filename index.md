@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Aisha Portfolio
+title: Ayishat Ambali Portfolio
+theme: jekyll-theme-minimal
 ---
 
-# 👋 Hi, I’m Aisha
+# 👋 Hi, I’m Ayishat
 
 I am a **Data Analyst** with a passion for turning data into actionable insights.  
 A graduate of **Pharmacology & Therapeutics**, I am now chasing my dream in **Oncology and Research**, blending science with analytics to make meaningful impact.  
