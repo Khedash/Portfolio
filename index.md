@@ -1,5 +1,4 @@
 ---
-Layout: default
 Title: "Aisha's Portfolio"
 ---
 # Welcome to My Portfolio
