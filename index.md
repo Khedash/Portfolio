@@ -1,26 +1,25 @@
-Yaml
-
 ---
 Layout: Default
 Title: Ambali Ayishat
 ---
-Html
-<!-- CSS for side-by-side intro -->
+
+!-- CSS for side-by-side intro -->
 <style>
 .portfolio-intro {
   display: flex;
-  align-items: center;
+  align-items: flex-start; /* Aligns text to top of image */
   gap: 20px;
   margin-bottom: 1rem;
+  flex-direction: row-reverse; /* Puts image on the right */
 }
 .portfolio-intro img {
-  width: 150px;
+  /* Remove width to display original size */
   border-radius: 10px;
   display: block;
 }
 @media (max-width: 600px) {
   .portfolio-intro {
-    flex-direction: column;
+    flex-direction: column; /* stack on small screens */
     text-align: center;
   }
   .portfolio-intro img {
