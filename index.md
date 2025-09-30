@@ -3,19 +3,17 @@ Layout: Default
 Title: Ambali Ayishat
 ---
 
-!-- CSS for side-by-side intro -->
 <style>
 .portfolio-intro {
   display: flex;
-  align-items: flex-start; /* Aligns text to top of image */
+  align-items: flex-start; 
   gap: 20px;
-  margin-bottom: 1rem;
-  flex-direction: row-reverse; /* Puts image on the right */
+  flex-direction: row-reverse; /* image on the right */
 }
 .portfolio-intro img {
-  /* Remove width to display original size */
-  border-radius: 10px;
   display: block;
+  border-radius:10px; /* optional*/
+  max-width: 50%; /* optional to prevent it from overflowing */
 }
 @media (max-width: 600px) {
   .portfolio-intro {
@@ -24,6 +22,7 @@ Title: Ambali Ayishat
   }
   .portfolio-intro img {
     margin: 0 0 10px 0;
+    max width: 100%;
   }
 }
 </style>
