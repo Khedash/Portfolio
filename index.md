@@ -11,7 +11,7 @@ A graduate of **Pharmacology & Therapeutics**, I am now chasing my dream in **On
 
 I love solving complex problems, uncovering patterns in data, and exploring new ways to bring ideas to life.
 
-![Sunflower](sunflower.jpg)
+! [Github](GITHUB.jpg)
 This is my portfolio where i will be sharing my project and work
 ---
 
