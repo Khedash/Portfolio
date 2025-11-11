@@ -57,7 +57,7 @@ Title: Ambali Ayishat
 ## 🏆 Projects
 
 ### 🩺 Diabetes Data Analysis (SQL Project)
-<strong>Tools:</strong> PostgreSQL, SQL, VS Code, Python, Excel<br> ✅
+<strong>Tools:</strong> PostgreSQL, SQL, VS Code, Python, Excel✅<br> 
 <strong>Skills:</strong> Querying, Aggregation, Data Analysis, Data Cleaning, Data Visualization ✅
 
 **Summary:**  
