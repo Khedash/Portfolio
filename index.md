@@ -57,16 +57,18 @@ Title: Ambali Ayishat
 ## 🏆 Projects
 
 ### 🩺 Diabetes Data Analysis (SQL Project)
-**Tools:** PostgreSQL, SQL  
-**Skills:** Querying, Aggregation, Data Analysis  
+**Tools:** PostgreSQL, SQL, VS Code, Python, Excel ✅
+**Skills:** Querying, Aggregation, Data Analysis, Data Cleaning, Data Visualization ✅
 
 **Summary:**  
-Performed exploratory data analysis on a diabetes dataset using SQL.  
-Analyzed demographics, comorbidities, BMI, and blood glucose trends.
+Performed exploratory data analysis on a diabetes dataset using SQL.
+Analyzed patient demographics, comorbidities, blood glucose trends, 
+BMI categories, and gender-based prevalence.
+This project demonstrates the ability to extract meaningful insights from healthcare data using structured queries.
 
 **Status:** Work in progress – more analysis coming soon.
 
-🔗 [View Project on GitHub](YOUR_REPO_LINK_HERE)
+🔗 [View Project on GitHub](https://github.com/Khedash/Sql-Analytics-Project)
 
 ---
 ## 📫 Contact Me
