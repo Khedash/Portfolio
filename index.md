@@ -54,7 +54,21 @@ Title: Ambali Ayishat
 - Problem Solving &amp; Critical Thinking
 
 ---
+## 🏆 Projects
 
+### 🩺 Diabetes Data Analysis (SQL Project)
+**Tools:** PostgreSQL, SQL  
+**Skills:** Querying, Aggregation, Data Analysis  
+
+**Summary:**  
+Performed exploratory data analysis on a diabetes dataset using SQL.  
+Analyzed demographics, comorbidities, BMI, and blood glucose trends.
+
+**Status:** Work in progress – more analysis coming soon.
+
+🔗 [View Project on GitHub](YOUR_REPO_LINK_HERE)
+
+---
 ## 📫 Contact Me
 You can reach me at:  
 - **Email:** ambaliayishat88@gmail.com  
