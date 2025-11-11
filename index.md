@@ -61,11 +61,9 @@ Title: Ambali Ayishat
 **Skills:** Querying, Aggregation, Data Analysis, Data Cleaning, Data Visualization ✅
 
 **Summary:**  
-Performed exploratory data analysis on a diabetes dataset using SQL.
-Analyzed patient demographics, comorbidities, blood glucose trends, 
-BMI categories, and gender-based prevalence.
-This project demonstrates the ability to extract meaningful insights from healthcare data using structured queries.
-
+- Performed exploratory data analysis on a diabetes dataset using SQL.
+- Analyzed patient demographics, comorbidities, blood glucose trends, BMI categories, and gender-based prevalence.
+- This project demonstrates the ability to extract meaningful insights from healthcare data using structured queries.
 **Status:** Work in progress – more analysis coming soon.
 
 🔗 [View Project on GitHub](https://github.com/Khedash/Sql-Analytics-Project)
