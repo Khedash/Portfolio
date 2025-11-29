@@ -64,9 +64,22 @@ Title: Ambali Ayishat
 - Performed exploratory data analysis on a diabetes dataset using SQL.
 - Analyzed patient demographics, comorbidities, blood glucose trends, BMI categories, and gender-based prevalence.
 - This project demonstrates the ability to extract meaningful insights from healthcare data using structured queries.
-**Status:** Work in progress – more analysis coming soon.
+**Status:** Completed
 
 🔗 [View Project on GitHub](https://github.com/Khedash/Sql-Analytics-Project)
+
+---
+### 🎓 Student Exam Score Analysis Dashboard – Portfolio Project 📊
+<strong>Tools: </strong> Excel, Pivot Table, Pivot Chart,  Formulas, Visual Analytics✅<br> 
+<strong>Skills:</strong>  Microsoft Excel (Advanced), Data Cleaning & Preparation, Data Analysis, Data Visualization, Reporting 
+
+**Summary:**
+- Most students studied 7–11 hours, but higher study hours didn’t always guarantee better exam performance.
+- Attendance had no clear impact on exam outcomes.
+- Analysis of previous vs. current scores shows areas where interventions could improve performance.
+**Status:** Completed
+
+🔗 [View Project on GitHub](https://github.com/Khedash/Excel_for_data_analytics-student_exam_analysis)
 
 ---
 ## 📫 Contact Me
