@@ -79,13 +79,13 @@ Title: Ambali Ayishat
 - Analysis of previous vs. current scores shows areas where interventions could improve performance.
 **Status:** Completed
 
-🔗 [View Project on GitHub](https://github.com/Khedash/Excel_for_data_analytics-student_exam_analysis)
+🔗 [View Project on GitHub](https://github.com/Khedash/Excel_for_data_analytics)
 
 ---
 ## 📫 Contact Me
 You can reach me at:  
 - **Email:** ambaliayishat88@gmail.com  
-- **LinkedIn:** www.linkedin.com/in/ambali-ayishat-222910254 
+- **LinkedIn:** www.linkedin.com/in/ayishatambali
 - **GitHub:** https://khedash.github.io/Portfolio/
 
 
